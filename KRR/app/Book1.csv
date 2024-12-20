@@ -1,0 +1,24 @@
+﻿
+Qaiser,is_a,Student
+Qaiser, age_is,24
+Qaiser,lives_in,Pakistan
+Qaiser,got_to,Gym
+Qaiser,Fav_Game_is,Cricket
+Qaiser,weight_is,70 kg
+Qaiser,studies,MSAI
+Qaiser,is_a_Student_of,Dr. Basit Raza
+MSAI,is_a,Postgraduatedegree
+MSAI,duration,2 years
+MSAI,stand_for,Masters in Artificial intelligence
+Dr Basit Raza,is_a,Teacher
+Dr Basit Raza,is_teacher_in,Comsats
+Dr Basit Raza,Teaches,KRR
+KRR,Subject,MSAI
+KRR ,is_a,Subject
+KRR,is_a,3 CH Course
+Advance AI,Subject,MSAI
+Advancd AI,is_a,Subject
+Advancd AI,is_a,3 CH Course
+
+
+
